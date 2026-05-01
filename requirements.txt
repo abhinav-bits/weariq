@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+torch
+tiktoken
+qdrant-client
+fastapi
+uvicorn
